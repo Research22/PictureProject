@@ -1,0 +1,52 @@
+.container{
+	background-color: white;
+	height: 100%;
+	width: 100%;
+	margin: 10px auto;
+}
+
+#username{
+	width: 30%;
+	font-size: 36px;
+	text-align:center;
+	margin: 0px auto;
+}
+
+#display{
+	width: 30%;
+	font-size: 24px;
+	text-align:center;
+	margin: 0px auto;
+}
+
+#image{
+	text-align:center;
+	margin: 0px auto;
+
+}
+
+.buttons{
+	  background-color: #04AA6D; /* Green */
+	  Width: 150px;
+	  border: none;
+	  color: white;
+	  padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  /*display: inline-block;*/
+	  font-size: 20px;
+	  margin: auto;
+	  cursor: pointer;
+	  border-radius: 12px;
+}
+
+
+#next{
+	display: none;
+}
+
+#img{
+	display: none;
+}
+
+
